@@ -1,0 +1,17 @@
+﻿  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btReducedVector.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+  btSerializer.cpp
+  btSerializer64.cpp
+  btThreads.cpp
+  btVector3.cpp
+  btTaskScheduler.cpp
+  btThreadSupportPosix.cpp
+  btThreadSupportWin32.cpp
+  Generating Code...
+  LinearMath.vcxproj -> C:\Users\xelrac\Documents\GitHub\BulletDemo\Debug\LinearMath.lib

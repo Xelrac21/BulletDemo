@@ -1,0 +1,209 @@
+﻿  btAxisSweep3.cpp
+  btBroadphaseProxy.cpp
+  btCollisionAlgorithm.cpp
+  btDbvt.cpp
+  btDbvtBroadphase.cpp
+  btDispatcher.cpp
+  btOverlappingPairCache.cpp
+  btQuantizedBvh.cpp
+  btSimpleBroadphase.cpp
+  btActivatingCollisionAlgorithm.cpp
+  btBox2dBox2dCollisionAlgorithm.cpp
+  btBoxBoxCollisionAlgorithm.cpp
+  btBoxBoxDetector.cpp
+  btCollisionDispatcher.cpp
+  btCollisionDispatcherMt.cpp
+  btCollisionObject.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionDispatch\btCollisionObject.cpp(52,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btCollisionWorld.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionDispatch\btCollisionWorld.cpp(1308,53): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btCollisionWorldImporter.cpp
+  btCompoundCollisionAlgorithm.cpp
+  btCompoundCompoundCollisionAlgorithm.cpp
+  Generating Code...
+  Compiling...
+  btConvex2dConvex2dAlgorithm.cpp
+  btConvexConcaveCollisionAlgorithm.cpp
+  btConvexConvexAlgorithm.cpp
+  btConvexPlaneCollisionAlgorithm.cpp
+  btDefaultCollisionConfiguration.cpp
+  btEmptyCollisionAlgorithm.cpp
+  btGhostObject.cpp
+  btHashedSimplePairCache.cpp
+  btInternalEdgeUtility.cpp
+  btManifoldResult.cpp
+  btSimulationIslandManager.cpp
+  btSphereBoxCollisionAlgorithm.cpp
+  btSphereSphereCollisionAlgorithm.cpp
+  btSphereTriangleCollisionAlgorithm.cpp
+  btUnionFind.cpp
+  SphereTriangleDetector.cpp
+  btBox2dShape.cpp
+  btBoxShape.cpp
+  btBvhTriangleMeshShape.cpp
+  btCapsuleShape.cpp
+  Generating Code...
+  Compiling...
+  btCollisionShape.cpp
+  btCompoundShape.cpp
+  btConcaveShape.cpp
+  btConeShape.cpp
+  btConvex2dShape.cpp
+  btConvexHullShape.cpp
+  btConvexInternalShape.cpp
+  btConvexPointCloudShape.cpp
+  btConvexPolyhedron.cpp
+  btConvexShape.cpp
+  btConvexTriangleMeshShape.cpp
+  btCylinderShape.cpp
+  btEmptyShape.cpp
+  btHeightfieldTerrainShape.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(741,42): warning C4244: 'argument': conversion from 'const int' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(741,71): warning C4244: 'argument': conversion from 'const int' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(460,70): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(669): message : see reference to function template instantiation 'void gridRaycast<const ProcessTrianglesAction>(Action_T &,const btVector3 &,const btVector3 &,int [])' being compiled
+          with
+          [
+              Action_T=const ProcessTrianglesAction
+          ]
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(464,71): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(477,70): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btHeightfieldTerrainShape.cpp(481,71): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  btMiniSDF.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.h(67,16): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.h(75,16): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(53,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(54,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(55,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(57,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(58,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(59,28): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(72,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(73,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(74,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(79,29): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(80,29): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(81,29): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(86,15): warning C4244: '=': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(91,16): warning C4244: '=': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(97,13): warning C4244: '=': conversion from 'unsigned __int64' to 'size_t', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(108,16): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(118,17): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(124,16): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(136,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(142,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(165,35): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(166,35): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(167,35): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(212,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(213,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(214,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(216,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(217,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(218,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(220,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(221,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(222,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(224,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(226,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(243,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(244,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(245,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(248,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(260,19): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(272,19): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(284,19): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(300,28): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(301,28): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(302,28): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(303,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(304,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(305,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(307,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(308,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(309,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(311,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(312,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(313,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(515,33): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(516,33): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.cpp(517,33): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+  btMinkowskiSumShape.cpp
+  btMultimaterialTriangleMeshShape.cpp
+  btMultiSphereShape.cpp
+  btOptimizedBvh.cpp
+  btPolyhedralConvexShape.cpp
+  Generating Code...
+  Compiling...
+  btScaledBvhTriangleMeshShape.cpp
+  btSdfCollisionShape.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.h(67,16): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btMiniSDF.h(75,16): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\CollisionShapes\btSdfCollisionShape.cpp(92,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+  btShapeHull.cpp
+  btSphereShape.cpp
+  btStaticPlaneShape.cpp
+  btStridingMeshInterface.cpp
+  btTetrahedronShape.cpp
+  btTriangleBuffer.cpp
+  btTriangleCallback.cpp
+  btTriangleIndexVertexArray.cpp
+  btTriangleIndexVertexMaterialArray.cpp
+  btTriangleMesh.cpp
+  btTriangleMeshShape.cpp
+  btUniformScalingShape.cpp
+  btContactProcessing.cpp
+  btGenericPoolAllocator.cpp
+  btGImpactBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+  btGImpactQuantizedBvh.cpp
+  btGImpactShape.cpp
+  Generating Code...
+  Compiling...
+  btTriangleShapeEx.cpp
+  gim_box_set.cpp
+  gim_contact.cpp
+  gim_memory.cpp
+  gim_tri_collision.cpp
+  btContinuousConvexCollision.cpp
+  btConvexCast.cpp
+  btGjkConvexCast.cpp
+  btGjkEpa2.cpp
+  btGjkEpaPenetrationDepthSolver.cpp
+  btGjkPairDetector.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(36,45): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(368,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(368,52): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(368,104): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(368,137): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(368,185): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(372,21): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(373,21): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btGjkPairDetector.cpp(411,9): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+  btMinkowskiPenetrationDepthSolver.cpp
+  btPersistentManifold.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(362,46): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(363,48): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(374,70): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(375,56): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(376,86): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(377,86): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(381,59): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(382,88): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(383,92): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(385,64): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(386,62): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(387,62): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(395,74): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(398,88): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(399,90): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(400,80): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(401,70): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletCollision\NarrowPhaseCollision\btPersistentManifold.cpp(402,70): warning C4244: '=': conversion from 'const double' to 'btScalar', possible loss of data
+  btPolyhedralContactClipping.cpp
+  btRaycastCallback.cpp
+  btSubSimplexConvexCast.cpp
+  btVoronoiSimplexSolver.cpp
+  Generating Code...
+  BulletCollision.vcxproj -> C:\Users\xelrac\Documents\GitHub\BulletDemo\Debug\BulletCollision.lib

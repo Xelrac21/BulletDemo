@@ -1,0 +1,779 @@
+﻿  btDefaultSoftBodySolver.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableBackwardEulerObjective.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(163,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(164,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(165,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(272,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(273,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(274,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(344,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(33,214): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableGravityForce.h(70,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(45,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(52,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(451,61): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(32,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(50,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(57,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(360,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(361,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(369,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(370,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(373,74): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(381,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(382,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(385,79): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(117,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(128,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,110): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,93): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,76): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.h(191,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.cpp(57,48): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.cpp(208,32): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableBodySolver.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(163,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(164,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(165,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(272,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(273,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(274,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(344,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(33,214): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableGravityForce.h(70,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(45,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(52,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(451,61): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(32,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(50,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(57,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(360,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(361,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(369,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(370,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(373,74): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(381,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(382,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(385,79): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(117,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(128,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,110): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,93): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,76): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.h(191,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(24,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(72,34): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(88,26): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(132,55): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(170,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btConjugateResidual.h(34,1): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btConjugateResidual.h(32): message : while compiling class template member function 'btConjugateResidual<btDeformableBackwardEulerObjective>::btConjugateResidual(const int)'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.cpp(23): message : see reference to function template instantiation 'btConjugateResidual<btDeformableBackwardEulerObjective>::btConjugateResidual(const int)' being compiled
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBodySolver.h(44): message : see reference to class template instantiation 'btConjugateResidual<btDeformableBackwardEulerObjective>' being compiled
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableContactConstraint.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableContactConstraint.cpp(504,23): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableContactProjection.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(163,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(164,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(165,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(272,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(273,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(274,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(344,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(33,214): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableGravityForce.h(70,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(45,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(52,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(451,61): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(32,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(50,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(57,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(360,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(361,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(369,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(370,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(373,74): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(381,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(382,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(385,79): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(117,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(128,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,110): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,93): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,76): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.h(191,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableContactProjection.cpp(574,46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableContactProjection.cpp(587,47): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableContactProjection.cpp(599,46): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableContactProjection.cpp(607,47): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableMultiBodyConstraintSolver.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(163,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(164,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(165,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(272,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(273,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(274,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(344,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(33,214): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableGravityForce.h(70,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(45,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(52,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(451,61): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(32,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(50,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(57,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(360,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(361,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(369,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(370,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(373,74): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(381,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(382,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(385,79): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(117,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(128,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,110): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,93): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,76): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.h(191,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btDeformableMultiBodyDynamicsWorld.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(130,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(163,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(164,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(165,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,96): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,73): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(240,50): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(272,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(273,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(274,27): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLagrangianForce.h(344,19): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMassSpringForce.h(33,214): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableGravityForce.h(70,19): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(31,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(45,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(52,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableLinearElasticityForce.h(451,61): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(32,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(50,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(57,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(360,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(361,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(369,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(370,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(373,74): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(381,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(382,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableNeoHookeanForce.h(385,79): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btReducedVector.h(299,17): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(117,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(128,36): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,110): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,93): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btPreconditioner.h(142,76): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableBackwardEulerObjective.h(191,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMultiBodyDynamicsWorld.cpp(54,43): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btDeformableMultiBodyDynamicsWorld.cpp(61,37): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftBody.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btImplicitQRSVD.h(492,22): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(225,27): warning C4305: '=': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(1036,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(2582,40): warning C4316: 'btDbvntNode': object allocated on the heap may not be aligned 16
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(2620,31): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(2871,50): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(3456,41): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(3538,28): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.cpp(3933,86): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftBodyHelpers.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(84,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(230,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(233,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(238,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(239,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(240,95): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(248,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(249,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(250,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(254,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(284,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(286,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(289,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(290,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(291,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(293,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(294,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(298,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(299,27): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(305,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(306,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(317,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(326,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(338,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(348,18): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(368,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(383,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(398,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(419,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(439,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(459,23): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(519,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(520,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(521,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(522,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(523,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(524,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,49): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(533,29): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(536,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(614,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(615,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(616,38): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(617,30): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyInternals.h(629,5): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyHelpers.cpp(1326,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyHelpers.cpp(1562,20): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBodyHelpers.cpp(1565,26): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftMultiBodyDynamicsWorld.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftRigidCollisionAlgorithm.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftRigidDynamicsWorld.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  btSoftSoftCollisionAlgorithm.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(38,53): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1217,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1342,1): warning C4244: '+=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1346,21): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1370,20): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1372,23): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1254,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\btSoftBody.h(1288): message : see reference to function template instantiation 'void btSoftBody::updateFace<btDbvtNode>(DBVTNODE *,bool,bool)' being compiled
+          with
+          [
+              DBVTNODE=btDbvtNode
+          ]
+  poly34.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(30,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(31,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(32,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(33,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(34,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(35,34): warning C4244: '-=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(54,13): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(57,11): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(58,19): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(59,19): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(62,14): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(63,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(84,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(89,11): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(91,10): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(92,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(93,35): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(94,35): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(100,22): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(107,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(108,25): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(121,13): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(124,11): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(138,11): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(139,15): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(148,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(153,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(154,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(163,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(164,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(172,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(173,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(182,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(183,14): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(184,14): warning C4244: 'argument': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(222,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(223,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(224,17): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(243,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(244,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(245,16): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(268,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(303,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(304,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(305,14): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(347,15): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(349,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(351,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(353,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(355,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(369,13): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(377,14): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletSoftBody\poly34.cpp(432,13): warning C4056: overflow in floating-point constant arithmetic
+  Generating Code...
+  BulletSoftBody.vcxproj -> C:\Users\xelrac\Documents\GitHub\BulletDemo\Debug\BulletSoftBody.lib

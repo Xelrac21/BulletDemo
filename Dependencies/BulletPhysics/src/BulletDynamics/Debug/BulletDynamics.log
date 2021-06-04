@@ -1,0 +1,108 @@
+﻿  btKinematicCharacterController.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Character\btKinematicCharacterController.cpp(139,22): warning C4305: '=': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Character\btKinematicCharacterController.cpp(149,23): warning C4305: '=': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Character\btKinematicCharacterController.cpp(157,29): warning C4305: '=': truncation from 'double' to 'btScalar'
+  btBatchedConstraints.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btBatchedConstraints.cpp(169,64): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btBatchedConstraints.cpp(661,51): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btFixedConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpring2Constraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btHingeConstraint.cpp(304,18): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btNNCGConstraintSolver.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(76,22): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(100,22): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(202,30): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(255,30): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(313,22): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\ConstraintSolver\btSequentialImpulseConstraintSolver.cpp(347,30): warning C4244: 'return': conversion from 'double' to 'btScalar', possible loss of data
+  btSequentialImpulseConstraintSolverMt.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  Generating Code...
+  Compiling...
+  btDiscreteDynamicsWorldMt.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  btSimulationIslandManagerMt.cpp
+  btMultiBody.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBody.cpp(1968,38): warning C4244: '=': conversion from 'int' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBody.cpp(2011,19): warning C4244: 'initializing': conversion from 'btScalar' to 'int', possible loss of data
+  btMultiBodyConstraint.cpp
+  btMultiBodyConstraintSolver.cpp
+  btMultiBodyDynamicsWorld.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.cpp(704,71): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.cpp(712,46): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.cpp(717,93): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.cpp(726,96): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyDynamicsWorld.cpp(735,96): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  btMultiBodyFixedConstraint.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyFixedConstraint.cpp(194,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyFixedConstraint.cpp(200,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyFixedConstraint.cpp(207,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyFixedConstraint.cpp(213,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodyGearConstraint.cpp
+  btMultiBodyJointLimitConstraint.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyJointLimitConstraint.cpp(118,22): warning C4244: 'initializing': conversion from 'int' to 'btScalar', possible loss of data
+  btMultiBodyJointMotor.cpp
+  btMultiBodyMLCPConstraintSolver.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(88,40): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(88,27): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(107,40): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(107,27): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(163,41): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(163,28): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(174,41): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(174,28): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(213,41): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(213,28): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(224,41): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyMLCPConstraintSolver.cpp(224,28): warning C4244: 'initializing': conversion from 'double' to 'const btScalar', possible loss of data
+  btMultiBodyPoint2Point.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyPoint2Point.cpp(195,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyPoint2Point.cpp(201,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyPoint2Point.cpp(208,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodyPoint2Point.cpp(214,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodySliderConstraint.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodySliderConstraint.cpp(213,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodySliderConstraint.cpp(219,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodySliderConstraint.cpp(226,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodySliderConstraint.cpp(232,32): warning C4305: 'argument': truncation from 'double' to 'btScalar'
+  btMultiBodySphericalJointMotor.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\Featherstone\btMultiBodySphericalJointMotor.cpp(33,1): warning C4305: 'initializing': truncation from 'double' to 'btScalar'
+  btDantzigLCP.cpp
+  btLemkeAlgorithm.cpp
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btMatrixX.h(108,18): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\LinearMath\btMatrixX.h(70): message : while compiling class template member function 'T btVectorX<T>::nrm2(void) const'
+          with
+          [
+              T=float
+          ]
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\MLCPSolvers\btLemkeAlgorithm.cpp(248): message : see reference to function template instantiation 'T btVectorX<T>::nrm2(void) const' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\xelrac\Documents\GitHub\BulletDemo\Dependencies\BulletPhysics\src\BulletDynamics\MLCPSolvers\btLemkeAlgorithm.h(81): message : see reference to class template instantiation 'btVectorX<float>' being compiled
+  btMLCPSolver.cpp
+  btRaycastVehicle.cpp
+  Generating Code...
+  Compiling...
+  btWheelInfo.cpp
+  Generating Code...
+  BulletDynamics.vcxproj -> C:\Users\xelrac\Documents\GitHub\BulletDemo\Debug\BulletDynamics.lib
